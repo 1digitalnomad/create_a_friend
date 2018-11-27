@@ -1,0 +1,5 @@
+This assignment is using flask, db connection.
+
+This connects to the db.
+You can also submit new friends into the db.
+you can also display your current friends in the db on the index.html page.
